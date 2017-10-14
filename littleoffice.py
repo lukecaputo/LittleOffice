@@ -459,7 +459,7 @@ def beginOffice():
         else:
             print(readings)
     
-    else
+    else:
         print("error")
 
 
